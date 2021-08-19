@@ -53,5 +53,5 @@ LineAPIの無料枠は1か月に1000通（恐ろしく少ない）しか送れ�
 アラームとして使ったら5秒に1通だから30秒で止めたとしても6通，設定に5通くらいと考えても1日約10通．3人で使ったら止まっちゃうので．
 
 ## 参考
-[djangoでlineapiの参考に](https://keinumata.hatenablog.com/entry/2018/05/08/122348)（今はこれをつかうならcsrf_exemptをプラスする必要がある）
-後から調べたら[GASで定期時刻に通知する](https://qiita.com/RyoheiAdachi/items/6c747d40fea4c09107f0)やつが公開されてた．苦し紛れに使ったつもりだったけどGASで定期実行ってアリなんだなあ
+[djangoでlineapi](https://keinumata.hatenablog.com/entry/2018/05/08/122348)（今はこれをつかうならcsrf_exemptをプラスする必要がある）  
+[Lineで定期時刻に通知する](https://qiita.com/RyoheiAdachi/items/6c747d40fea4c09107f0)苦し紛れに使ったつもりだったけどGASで定期実行ってアリなんだなあ
